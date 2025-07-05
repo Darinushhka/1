@@ -8,3 +8,12 @@ elif day == "неділя":
 
 else:
     print("Працюємо")"""
+
+"""true_password = "12345q"
+password = input("Введіть Ваш пароль: ")
+if password == true_password:
+    print("Ура! Доступ дозволено!")
+else:
+   print("Доступ заборонено!") """
+
+
